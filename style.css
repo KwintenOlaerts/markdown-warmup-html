@@ -1,3 +1,49 @@
 body {
-  background-color: lightblue;
+    background-color: #e6ffff;
+  }
+
+h1 {
+    color: #49a4aa;
+    font-weight: 1400;   
+    padding-bottom: 30px;
+    padding-left: 5px;
+    font-family: 'Major Mono Display', monospace;
+
+
 }
+
+/* li {
+    list-style-type: square;
+} */
+
+h2 { 
+        padding-top: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        padding-left: 5px;
+        font-family: 'Ubuntu', sans-serif;
+      }
+
+
+h2 {
+    color: purple;
+    font-weight: bolder;
+    
+}
+
+/* li {
+    list-style-type: circle;
+} */
+
+p {
+    padding-left: 5px;
+    font-family: 'Indie Flower', cursive;
+
+
+}
+
+ul, li {
+    list-style-type: disc;
+    padding: none;
+}
+

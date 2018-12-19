@@ -1,0 +1,12 @@
+body {
+    background-image: url("thebeacongroot.jpg");
+  }
+
+h1 {
+    color: #0E5887;
+    font-family: 'Major Mono Display', monospace;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
