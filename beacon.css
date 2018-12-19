@@ -5,8 +5,15 @@ body {
 h1 {
     color: #0E5887;
     font-family: 'Major Mono Display', monospace;
+    text-align: center;
 }
 
 p {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }

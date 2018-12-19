@@ -1,3 +1,16 @@
 body {
-    background-image: url("aboutbackground.jpg");
+    background-image: url("aboutbackground2.jpg");
   }
+
+p {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+ul, li {
+    list-style-type: circle;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: 25px;
+    text-align: center;
+}
