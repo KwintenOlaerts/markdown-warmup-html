@@ -1,6 +1,9 @@
 body {
     background-image: url("aboutbackground2.jpg");
+    
   }
+
+
 
 p {
     font-family: 'ZCOOL XiaoWei', serif;
@@ -13,4 +16,5 @@ ul, li {
     font-family: 'ZCOOL XiaoWei', serif;
     font-size: 25px;
     text-align: center;
+    
 }
